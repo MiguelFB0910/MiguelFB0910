@@ -1,6 +1,6 @@
 # MIGUEL FERNANDO BANDEIRA
 
-Desenvolvedor em formação apaixonado por tecnologia e resolução de problemas através do código.
+Apaixonado por tecnologia e resolução de problemas através do código.
 
 ---
 
@@ -15,6 +15,6 @@ Desenvolvedor em formação apaixonado por tecnologia e resolução de problemas
 
 ### 🚀 Foco & Objetivos
 
-Estou focado em construir uma base sólida no desenvolvimento de software, aprendendo novas linguagens, frameworks e boas práticas de programação. Utilizo o GitHub para documentar minha evolução, organizar meus projetos e compartilhar meus aprendizados com a comunidade.
+Estou focado em construir uma base sólida na programação e a area de T.I, aprendendo novas linguagens, frameworks e boas práticas de programação. Utilizo o GitHub para documentar minha evolução, organizar meus projetos e compartilhar meus aprendizados com a comunidade.
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
