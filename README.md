@@ -1,16 +1,20 @@
-## Hi there 👋
+# MIGUEL FERNANDO BANDEIRA
 
-<!--
-**MiguelFB0910/MiguelFB0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação apaixonado por tecnologia e resolução de problemas através do código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre Mim
+
+* **Nome:** MIGUEL FERNANDO BANDEIRA
+* **Idade:** 17 anos (Nascido em 09/10/2008)
+* **Localização:** Santa Bárbara d'Oeste, SP
+* **Formação:** Cursando Técnico em Tecnologia da Informação no SENAC Americana
+
+---
+
+### 🚀 Foco & Objetivos
+
+Estou focado em construir uma base sólida no desenvolvimento de software, aprendendo novas linguagens, frameworks e boas práticas de programação. Utilizo o GitHub para documentar minha evolução, organizar meus projetos e compartilhar meus aprendizados com a comunidade.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
